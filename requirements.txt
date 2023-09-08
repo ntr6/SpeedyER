@@ -1,0 +1,8 @@
+gensim
+nltk
+Faker
+nicknames
+faiss-cpu
+keras
+pandas
+numpy
